@@ -1,0 +1,140 @@
+/* HEADER SECTIONS */
+.header-section {
+    display: flex;
+    justify-content: space-between;
+    margin: 10px 30px 0px 40px;
+}
+
+.header-section .header-img {
+    width: 100px;
+}
+
+.header-section img {
+    width: 100%;
+}
+
+.header-section .input-search input {
+    margin-top: 65px;
+    margin-left: 330px;
+    width: 470px;
+}
+
+.header-section .header-sub h3 {
+    margin-top: 65px;
+    color: orangered;
+}
+
+.navbar-nav {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+}
+
+
+/* MAIN SECTIONS */
+#title-content {
+    color: #0EC0C3;
+    text-align: center;
+}
+
+#sub-content {
+    color: orangered;
+    text-align: center;
+}
+
+.line-1 h1 {
+    margin-bottom: 30px;
+}
+
+.body-content {
+    font-size: 20px;
+    text-align: justify;
+}
+
+.body-content .content-1 img {
+    width: 100%;
+}
+
+.content-2 .list-info {
+    padding: 5px 10px;
+    margin-top: 20px;
+}
+
+.content-2 .list-info u{
+    list-style-type: circle;
+    text-decoration: none;
+    color: #0EC0C3;
+}
+
+.airpod-pro .airpod h3 {
+    padding-left: 10px;
+    color: red;
+}
+
+.airpod-pro img {
+    width: 45%;
+    margin-top: 30px;
+}
+
+.sub-content-3 {
+    height: 700px;
+}
+
+.content-3 .iphone-15 {
+    box-shadow: 3px 3px 5px 0px #666;
+    height: 98%;
+    padding: 15px;
+    margin-left: 30px;
+}
+
+.content-3 .iphone-15 img {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    width: 60%;
+}
+
+.content-3 h3 {
+    color: orangered;
+    text-align: center;
+}
+
+.content-4 .top {
+    height: 350px;
+    box-sizing: border-box;
+}
+
+.top img {
+    width: 100%;
+}
+
+.content-4 .bottom {
+    height: 350px;
+    box-sizing: border-box;
+}
+
+.bottom img {
+    width: 100%;
+}
+
+.sub-items {
+    box-shadow: 3px 3px 5px 0px #666;
+    padding: 15px;
+}
+
+.sub-top {
+    width: 50%;
+}
+
+
+/* FOOTER SECTIONS */
+.footer-section {
+    background-color: #0EC0C3;
+    padding: 15px 0px;
+    margin-top: 30px;
+}
+
+.footer-section .footer-sub {
+    text-align: center;
+    color: #ffffff;
+}
